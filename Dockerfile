@@ -1,4 +1,4 @@
-FROM  pi4k8s/python:3.10
+FROM  pi4k8s/python:3.10-streamlit
 
 WORKDIR /opt
 
